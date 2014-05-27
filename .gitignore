@@ -1,9 +1,6 @@
 .vagrant
 package.box
 
-#IDA
-.idea
-
 # Numerous always-ignore extensions
 *.diff
 *.err
@@ -26,6 +23,7 @@ Thumbs.db
 *.esproj
 nbproject
 
+
 # Dreamweaver added files
 _notes
 dwsync.xml
@@ -39,7 +37,5 @@ dwsync.xml
 .svn
 .CVS
 .idea
-/www/bootstrap/compiled.php
-/www/vendor
 composer.phar
 composer.lock
